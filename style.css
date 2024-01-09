@@ -142,4 +142,52 @@ line-height: 30px; /* 166.667% */
 
 }
 
+.j-button{
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
 /* complete party section */
+
+.event{
+    margin: auto;
+    width: 82%;
+    max-width: 1320px;
+    background-image: linear-gradient(to right, rgba(255,0,0,.01), rgba(255,0,0,.2));
+}
+
+.event-text{
+    margin: auto;
+    padding: 100px 350px;
+    width: 42%;
+    max-width: 550px;
+    max-height: 168px;
+}
+
+.event-text h4{
+color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+
+.event-red{
+    padding: 5px;
+    color: red;
+}
+
+#event-button{
+    border-radius: 25px;
+    padding:8px 12px;
+    background-color: red;
+    color: white;
+}
