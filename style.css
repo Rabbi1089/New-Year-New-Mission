@@ -160,6 +160,7 @@ text-transform: uppercase;
     width: 82%;
     max-width: 1320px;
     background-image: linear-gradient(to right, rgba(255,0,0,.01), rgba(255,0,0,.2));
+border:2px solid rebeccapurple;
 }
 
 .event-text{
@@ -168,6 +169,7 @@ text-transform: uppercase;
     width: 42%;
     max-width: 550px;
     max-height: 168px;
+border:2px solid rebeccapurple;
 }
 
 .event-text h4{
