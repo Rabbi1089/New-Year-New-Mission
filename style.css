@@ -291,3 +291,37 @@ font-style: normal;
 font-weight: 500;
 line-height: 32px; /* 160% */
 }
+
+/* ============Portfolio */
+.Portfolio{
+    background-color: #FFF;
+}
+
+#p-h4{
+    color:yellow;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+#port-pra{
+    text-align: left;
+    color: #F00;
+}
+
+/* ================================ */
+
+.conatiner{
+    margin: auto;
+    width: 100%;
+    max-width: 1320px;
+    box-sizing: border-box;
+    }
+    
+    .column {
+      float: left;
+      width: 32.2%;
+      padding: 5px;
+    }
