@@ -332,7 +332,7 @@ line-height: normal;
       padding: 5px;
     }
 .input-box{
-    padding: 30px;
+    padding: 10px;
 }
    input{
     border-radius: 0px 50px 50px 0px;
@@ -348,9 +348,9 @@ line-height: normal;
    }
       
 .contact {
-width: 1600px;
-height: 609px;
-flex-shrink: 0;
+    width: 100%;
+    height: auto;
+    flex-shrink: 0;
     background-color: black;
     color: white;
     display: flex;
@@ -366,3 +366,10 @@ flex-shrink: 0;
     padding: 30px;
 }
 
+.copyright{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
