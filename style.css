@@ -160,7 +160,6 @@ text-transform: uppercase;
     width: 82%;
     max-width: 1320px;
     background-image: linear-gradient(to right, rgba(255,0,0,.01), rgba(255,0,0,.2));
-border:2px solid rebeccapurple;
 }
 
 .event-text{
@@ -169,7 +168,7 @@ border:2px solid rebeccapurple;
     width: 42%;
     max-width: 550px;
     max-height: 168px;
-border:2px solid rebeccapurple;
+
 }
 
 .event-text h4{
@@ -193,3 +192,68 @@ text-transform: capitalize;
     background-color: red;
     color: white;
 }
+/* ============================================== */
+.best-offer{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    width: 100%;
+    height: 400px;
+    max-width: 1320px;
+    background-color: #FFF;
+    /* border:2px solid red; */
+}
+
+.coming{
+    width: 33%;
+}
+
+.offer-image{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 33%;
+      
+}
+
+.coming{
+    padding-left: 10px;
+}
+.new-coming{
+    width: 33%;
+}
+
+.best-offer p{
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 12px;
+    text-transform: capitalize;
+}
+
+#offer-h4{
+    padding: 5px;
+    color: #070211;
+    text-align: left;
+    font-family: Merriweather;
+    font-size: 26px;
+
+}
+
+#p_black{
+    color: #070211;
+    text-align: left;
+    font-family: Merriweather;
+    font-size: 12px;
+}
+
+#offer-red{
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
