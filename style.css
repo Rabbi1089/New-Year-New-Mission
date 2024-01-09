@@ -331,4 +331,38 @@ line-height: normal;
       width: 32.2%;
       padding: 5px;
     }
+.input-box{
+    padding: 30px;
+}
+   input{
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    color: white;
+    padding: 16px 32px;
+   }
+   input[type=text]{
+    border-radius: 50px 0px 0px 50px;
+    background: white;
+    color: black;
+    padding: 16px 32px;
+   }
+      
+.contact {
+width: 1600px;
+height: 609px;
+flex-shrink: 0;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.adress{
+    padding: 30px;
+}
+
+.phn{
+    padding: 30px;
+}
 
